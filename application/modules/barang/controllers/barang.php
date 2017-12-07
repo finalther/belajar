@@ -261,6 +261,10 @@ class Barang extends MX_Controller {
 	}
 
 	function test2(){
+
+	}
+
+	function test3(){
 		
 	}
 
