@@ -258,6 +258,7 @@ class Barang extends MX_Controller {
 
 	function test(){
 		echo "ini tes ";
+		echo "tambahan master";
 	}
 
 	function test2(){
