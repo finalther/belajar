@@ -256,18 +256,6 @@ class Barang extends MX_Controller {
 		redirect(base_url('barang/master'));
 	}
 
-	function test(){
-
-	}
-
-	function test2(){
-
-	}
-
-	function test3(){
-		
-	}
-
 }
 
 /* End of file Home.php */
