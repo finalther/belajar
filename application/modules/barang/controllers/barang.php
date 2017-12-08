@@ -257,7 +257,7 @@ class Barang extends MX_Controller {
 	}
 
 	function ganti(){
-		
+		echo "coba tambah";
 	}
 
 }
